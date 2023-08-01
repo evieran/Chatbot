@@ -26,3 +26,6 @@ To run this project, you need the following Python libraries:
 ## Limitations
 The current implementation for identifying cognitive distortions is simple and might yield many false positives or negatives. 
 It's recommended to utilize natural language processing (NLP) techniques or machine learning models for more accurate results in a real-world application.
+
+## Note
+My focus is not on front-end development, and UI/UX design is not where I shine. This project was meant as an exercise and a fun way to showcase my skills.
