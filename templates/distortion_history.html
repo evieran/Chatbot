@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Your Cognitive Distortion History</h2>
+<table>
+  <tr>
+    <th>Cognitive Distortion</th>
+    <th>Count</th>
+  </tr>
+  {% for distortion, count in zip(distortions, counts) %}
+  <tr>
+    <td>{{ distortion }}</td>
+    <td>{{ count }}</td>
+  </tr>
+  {% endfor %}
+</table>
+</body>
+</html>

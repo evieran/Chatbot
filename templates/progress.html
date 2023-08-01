@@ -1,0 +1,7 @@
+<h1>Your Progress</h1>
+<p>Here are the cognitive distortions you've worked on:</p>
+<ul>
+    {% for distortion, count in counts %}
+        <li>{{ distortion }}: {{ count }}</li>
+    {% endfor %}
+</ul>
