@@ -2,6 +2,7 @@
 
 This project is a web-based Chatbot built for educational purposes, demonstrating Python, SQL, and Flask skills. 
 It aims to identify common cognitive distortions in user inputs and provide constructive feedback and suggestions.
+This repository is created entirely for educational purposes.
 
 ## Features
 
